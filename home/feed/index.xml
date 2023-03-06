@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre: Home	</title>
-	<atom:link href="/home/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Só mais um site WordPress</description>
 	<lastBuildDate>Mon, 06 Mar 2023 19:29:05 +0000</lastBuildDate>
 	<sy:updatePeriod>

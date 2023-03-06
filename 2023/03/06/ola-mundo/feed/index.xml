@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre: Olá, mundo!	</title>
-	<atom:link href="/2023/03/06/ola-mundo/feed/" rel="self" type="application/rss+xml" />
-	<link>/2023/03/06/ola-mundo/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Só mais um site WordPress</description>
 	<lastBuildDate>Mon, 06 Mar 2023 19:05:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Por: Um comentarista do WordPress		</title>
-		<link>/2023/03/06/ola-mundo/#comment-1</link>
+		<link>./../index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
 		<pubDate>Mon, 06 Mar 2023 19:05:08 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">./../../../../../index.html?p=1#comment-1</guid>
 
 					<description><![CDATA[Olá, isso é um comentário.
 Para começar a moderar, editar e excluir comentários, visite a tela de Comentários no painel.
