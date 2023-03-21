@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comentários sobre bluesky	</title>
+	Comentários sobre: O que é uma Plataforma BaaS (Banking as a service)?	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>./../index.html</link>
 	<description>Só mais um site WordPress</description>
 	<lastBuildDate>Thu, 16 Mar 2023 17:39:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,8 +19,8 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
-		Comentário sobre O que é uma Plataforma BaaS (Banking as a service)? por Um comentarista do WordPress		</title>
-		<link>./../../ola-mundo/index.html#comment-1</link>
+		Por: Um comentarista do WordPress		</title>
+		<link>./../index.html#comment-1</link>
 
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
 		<pubDate>Mon, 06 Mar 2023 19:05:08 +0000</pubDate>
